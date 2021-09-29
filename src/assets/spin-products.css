@@ -1,7 +1,4 @@
 /* spinProducts(360slider) */
-.slider360 {
-  z-index: 10000;
-}
 .slider360 .carousel-control-prev-icon, .slider360 .carousel-control-next-icon {
   width: 30px;
   height: 30px;
