@@ -20,7 +20,7 @@ Add css to `<head>`
 
 ```html
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="assets/css/spin-products.min.css">
+<link rel="stylesheet" type="text/css" href="assets/css/spin-products.css">
 ```
 
 Add js to `<body>`
@@ -28,7 +28,7 @@ Add js to `<body>`
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="js/jquery.spin-products.min.js" type="text/javascript"></script>
+<script src="js/jquery.spin-products.js" type="text/javascript"></script>
 ```
 
 Add Settings to `<body>` or js file

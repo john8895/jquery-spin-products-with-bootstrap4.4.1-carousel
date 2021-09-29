@@ -3,8 +3,8 @@
  * 	Settings:
  *  @imgPath
  *	type: string or array
- * 	Default: 'archive/360slider/images'
- * 	Example: 'archive/360slider/images' or ['path1', 'path2', 'path3']
+ * 	Default: 'archive/images'
+ * 	Example: 'archive/images' or ['path1', 'path2', 'path3']
  *
  *  @fileType
  * 	Type: string
@@ -128,7 +128,7 @@
     $.fn.extend({
         spinProducts: function (options) {
             const settings = $.extend({
-                imgPath: 'archive/360slider/images',
+                imgPath: 'archive/images',
                 fileType: 'jpeg',
             }, options);
             spinProducts(this, settings)
